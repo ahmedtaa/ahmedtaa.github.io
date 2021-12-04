@@ -154,6 +154,10 @@ body {
   color: #fff;
   background-color: #36b37f;
   margin-top: 30px;
+  -webkit-transition: background-color 2s ease-out;
+  -moz-transition: background-color 2s ease-out;
+  -o-transition: background-color 2s ease-out;
+  transition: background-color 2s ease-out;
 }
 
 .flex-item4 {
@@ -171,6 +175,10 @@ body {
   background-color: #36b37f;
   margin-top: 30px;
   align-self: center;
+  -webkit-transition: background-color 2s ease-out;
+  -moz-transition: background-color 2s ease-out;
+  -o-transition: background-color 2s ease-out;
+  transition: background-color 2s ease-out;
 }
 
 .fixx {
@@ -197,9 +205,10 @@ button:active {
 }
 
 button:hover {
-  background-color: #36b37f;
+  background-color: #d88627;
   box-shadow: 0 8px 16px rgba(54, 179, 127, 0.24);
   border-radius: 4px;
+  cursor: pointer;
 }
 
 .pill-btn {
