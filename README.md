@@ -3,7 +3,7 @@
 # My Portfilio
 
 
-![screenshot](./myPortfolio.png)
+![screenshot](./portfolio-screenshot.png)
 
 
 
