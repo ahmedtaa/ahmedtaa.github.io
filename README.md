@@ -3,19 +3,7 @@
 # My Portfilio
 
 
-![screenshot](./portfolio-screenshot.png)
 
-
-
-
-## Built With
-
-- HTML
-- CSS
-
-## Live demo
-
-[live-demo](https://ahmedtaa.github.io/)
 
 
 ## Authors
